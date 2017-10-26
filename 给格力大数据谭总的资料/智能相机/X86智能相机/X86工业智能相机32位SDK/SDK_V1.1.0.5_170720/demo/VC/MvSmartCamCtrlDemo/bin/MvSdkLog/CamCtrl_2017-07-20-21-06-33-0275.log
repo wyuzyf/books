@@ -1,4 +1,0 @@
-[2017-07-20 21:06:33:0313] | Warning  | NetUDP.cpp          -L0515: ReCreateSocket NewIp:[0], SrcIP:[0xa9fef6e6]
-[2017-07-20 21:06:33:0515] | Error    | InterfaceManager.cpp-L0911: GetBooleanValue failed, nRet = 0x800000ff
-[2017-07-20 21:06:33:0515] | Warning  | NetUDP.cpp          -L0515: ReCreateSocket NewIp:[0], SrcIP:[0xa9fef6e6]
-[2017-07-20 21:06:34:0359] | Error    | InterfaceManager.cpp-L3149: Get SmartSdkEnable fail [0x80000100]

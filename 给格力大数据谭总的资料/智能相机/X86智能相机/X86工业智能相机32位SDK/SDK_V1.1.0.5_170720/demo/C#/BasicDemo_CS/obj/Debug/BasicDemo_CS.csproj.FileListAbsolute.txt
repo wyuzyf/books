@@ -1,8 +1,0 @@
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\obj\Debug\ResolveAssemblyReference.cache
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\obj\Debug\NsBasicDemo_CS.CBasicDemo_CS.resources
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\obj\Debug\NsBasicDemo_CS.Properties.Resources.resources
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\obj\Debug\BasicDemo_CS.csproj.GenerateResource.Cache
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\obj\Debug\BasicDemo_CS.exe
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\obj\Debug\BasicDemo_CS.pdb
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\BasicDemo_CS.exe
-E:\work\SVN\MvSmartCamCtrl\tags\SDK_V1.1.0.4_170505\demo\C#\BasicDemo_CS\BasicDemo_CS.pdb
